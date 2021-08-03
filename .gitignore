@@ -1,0 +1,10 @@
+*.orig
+*.rej
+patches
+dmenu
+dmenu.o
+stest
+stest.o
+drw.o
+util.o
+config.h
