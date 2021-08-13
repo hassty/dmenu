@@ -1,0 +1,6 @@
+#!/bin/sh
+
+# Update readme
+printf "# My bloated build of dmenu\n\n" > README.md
+printf "## Applied patches\n\n" >> README.md
+./appliedpatches.sh | xargs -I {} printf " - {}\n" >> README.md
