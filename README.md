@@ -6,4 +6,5 @@
  - border
  - center
  - lineheight
+ - mousesupport
  - numbers
