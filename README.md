@@ -8,3 +8,4 @@
  - lineheight
  - mousesupport
  - numbers
+ - password
