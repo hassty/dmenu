@@ -9,3 +9,4 @@
  - mousesupport
  - numbers
  - password
+ - xresources-alt
