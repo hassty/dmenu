@@ -5,6 +5,7 @@
  - alpha
  - border
  - center
+ - instant
  - lineheight
  - mousesupport
  - numbers
