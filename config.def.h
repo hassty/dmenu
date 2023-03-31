@@ -3,7 +3,7 @@
 
 static int instant = 0;
 static int topbar = 1;                      /* -b  option; if 0, dmenu appears at bottom     */
-static const unsigned int alpha = 0xe4U;
+static const unsigned int alpha = 250;
 static int centered = 0;                    /* -c option; centers dmenu on screen */
 static int min_width = 500;                    /* minimum width when centered */
 
